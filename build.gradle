@@ -1,4 +1,6 @@
 apply plugin: 'java'
+group 'Utils'
+version '0.1'
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
